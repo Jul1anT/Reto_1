@@ -1,4 +1,4 @@
-# Programación Orientada a Objetos - Grupo 4 - UNAL
+# Programación Orientada a Objetos - Gr(4) - UNAL
 
 ## Información del estudiante
 **Nombre:** Julian Ricardo Torres Zaque<br>
